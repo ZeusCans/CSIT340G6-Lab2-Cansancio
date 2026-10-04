@@ -11,14 +11,14 @@ const ProjectsSection = () => {
           title="About Me in React"
           description="My first React project, rebuilt from a plain HTML page."
           tech="React · Tailwind CSS"
-          link="https://github.com/ralphmiguelsabellano/CSIT340-Lab1-Sabellano"
+          link="https://github.com/ZeusCans/CSIT340-Lab1-Cansancio"
         />
         <ProjectCard
           year="2025"
-          title="Oath of the Broken"
-          description="A group project on our Java class. A simple text-based RPG game where you can choose your own path.(It's Private)"
+          title="Syndicate by Hanggaws"
+          description="A group project on our Java class"
           tech="JavaScript"
-          link="https://github.com/ZakiAlmodiel/Oath-of-the-Broken_G7_RENEW"
+          link="https://github.com/ZeusCans/OOP2_Hanggaws"
         />
         
         
